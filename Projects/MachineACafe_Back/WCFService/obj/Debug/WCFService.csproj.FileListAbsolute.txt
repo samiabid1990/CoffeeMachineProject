@@ -1,0 +1,36 @@
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACafe_Back\WCFService\bin\WCFService.dll.config
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACafe_Back\WCFService\bin\WCFService.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACafe_Back\WCFService\bin\WCFService.pdb
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACafe_Back\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACafe_Back\WCFService\obj\Debug\WCFService.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACafe_Back\WCFService\obj\Debug\WCFService.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\Services.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\Services.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\Data.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\Domain.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\EntityFramework.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\Data.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\Domain.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\EntityFramework.xml
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\Newtonsoft.Json.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\Newtonsoft.Json.xml
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\EntityFramework.SqlServer.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\WCFService\bin\EntityFramework.SqlServer.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\WCFService.dll.config
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\WCFService.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\WCFService.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\Domain.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\EntityFramework.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\EntityFramework.SqlServer.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\Services.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\Data.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\Newtonsoft.Json.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\Domain.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\Services.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\EntityFramework.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\EntityFramework.SqlServer.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\Data.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\bin\Newtonsoft.Json.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\obj\Debug\WCFService.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\WCFService\obj\Debug\WCFService.pdb

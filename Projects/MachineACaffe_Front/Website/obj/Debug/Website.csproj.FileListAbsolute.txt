@@ -1,0 +1,96 @@
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\csc.exe
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\vbc.exe
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\VBCSCompiler.exe
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Website.dll.config
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Website.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Website.pdb
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Antlr3.Runtime.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Newtonsoft.Json.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Net.Http.Formatting.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Helpers.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Http.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Http.WebHost.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Mvc.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Optimization.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Razor.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.Deployment.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.Razor.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\WebGrease.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Helpers.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Mvc.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Optimization.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Razor.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.Deployment.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.Razor.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Antlr3.Runtime.pdb
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\Newtonsoft.Json.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Net.Http.Formatting.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Http.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\bin\System.Web.Http.WebHost.xml
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\obj\Debug\Website.dll
+c:\users\gsx789pc\documents\visual studio 2015\Projects\MachineACaffe_Front\Website\obj\Debug\Website.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\Website\bin\WCFClient.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\Website\bin\WCFClient.pdb
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\csc.exe
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\vbc.exe
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Website.dll.config
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Website.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Website.pdb
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Antlr3.Runtime.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Newtonsoft.Json.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Net.Http.Formatting.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Helpers.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Http.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Http.WebHost.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Mvc.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Optimization.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Razor.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\WCFClient.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\WebGrease.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\WCFClient.pdb
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Newtonsoft.Json.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Helpers.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Mvc.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Optimization.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Razor.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\Antlr3.Runtime.pdb
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Net.Http.Formatting.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Http.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\bin\System.Web.Http.WebHost.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\obj\Debug\Website.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\Website\obj\Debug\Website.pdb

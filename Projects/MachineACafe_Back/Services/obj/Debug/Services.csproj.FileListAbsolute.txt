@@ -1,0 +1,26 @@
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\Services.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\Services.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\obj\Debug\Services.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\obj\Debug\Services.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\Data.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\Domain.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\EntityFramework.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\Data.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\Domain.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\EntityFramework.xml
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\Services.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\Services.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\Data.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\Domain.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\EntityFramework.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\Data.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\Domain.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\bin\Debug\EntityFramework.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\obj\Debug\Services.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Services\obj\Debug\Services.pdb

@@ -1,0 +1,28 @@
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\Data.dll.config
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\Data.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\Data.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\Domain.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\EntityFramework.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\Domain.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\EntityFramework.xml
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\obj\Debug\Data.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\obj\Debug\Data.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\obj\Debug\Data.Migrations.FirstDb.resources
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\Data.dll.config
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\Data.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\Data.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\Domain.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\EntityFramework.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\Domain.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\EntityFramework.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\obj\Debug\Data.Migrations.FirstDb.resources
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\obj\Debug\Data.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Data\obj\Debug\Data.pdb

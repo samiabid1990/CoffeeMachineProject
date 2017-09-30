@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine à Café</title>
+    @Scripts.Render("~/Scripts")
+    @Styles.Render("~/Styles")
+</head>
+<body ng-app="mainModule" ng-controller="mainController">
+    <div class="main-content-agile">
+        <div class="sub-main-w3">
+
+            <h2>Avez vous un badge?</h2>
+            <div layout="row" layout-wrap>
+                <div flex="80">
+                    <md-input-container style="width:90% !important;">
+                        <label>Badge</label>
+                        <input type="text" ng-model="badgeDeCommande">
+                    </md-input-container>
+                </div>
+                <div flex="20">
+                    <md-button class="md-primary" ng-click="GetLatestBadgeOrder($event)" style="padding-top: 15px;">Charger</md-button>
+                </div>
+            </div>
+
+
+            <h2>Commander un Boisson</h2>
+            <form name="ValidationForm" novalidate ng-submit="ValidationForm.$valid && SaveOrder($event)">
+
+                <div layout="row" layout-wrap>
+                    <div flex="100">
+                        <md-input-container style="width:90% !important;">
+                            <label>Type du boisson</label>
+                            <md-select name="type" ng-model="coffeOrder.type" required>
+                                <md-option value="the">Thé </md-option>
+                                <md-option value="cafe">Café </md-option>
+                                <md-option value="chocolat">Chocolat</md-option>
+                            </md-select>
+                            <div ng-messages="ValidationForm.type.$error">
+                                <div ng-message="required">Le type du boisson est obligatoire</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+
+                <div layout="row" layout-wrap>
+                    <div flex="100">
+                        <md-input-container style="width:90% !important;">
+                            <label>Quantité du sucre</label>
+                            <input type="number" step="1" ng-model="coffeOrder.sugarQuantity"
+                                   name="sugarQuantity" ng-min="0" ng-max="4" required>
+                            <div ng-messages="ValidationForm.sugarQuantity.$error">
+                                <div ng-message="required">Le type du café est obligatoire</div>
+                                <div ng-message="ng-min">Le nombre minimun est 0</div>
+                                <div ng-message="ng-max">le nombre maximun est 4</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+
+                <div layout="row" layout-wrap>
+                    <div flex="100">
+                        <md-input-container style="width:90% !important;">
+                            <md-checkbox class="green " ng-model="coffeOrder.personalCup">
+                                Mug personnel
+                            </md-checkbox>
+                            <md-tooltip>
+                                Si jamais vous voulez utiliser votre propre Mug.
+                            </md-tooltip>
+                        </md-input-container>
+                    </div>
+                </div>
+
+                <div class="clear"></div>
+                <input type="submit" value="Confirmer la demande">
+            </form>
+        </div>
+    </div>
+    @RenderBody()
+</body>
+</html>

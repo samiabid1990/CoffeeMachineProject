@@ -1,0 +1,19 @@
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\bin\Debug\Domain.dll.config
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\bin\Debug\Domain.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\bin\Debug\Domain.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\bin\Debug\EntityFramework.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\bin\Debug\EntityFramework.xml
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\obj\Debug\Domain.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACafe_Back\Domain\obj\Debug\Domain.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\bin\Debug\Domain.dll.config
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\bin\Debug\Domain.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\bin\Debug\Domain.pdb
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\obj\Debug\Domain.dll
+C:\Users\Sami\Downloads\Projects\MachineACafe_Back\Domain\obj\Debug\Domain.pdb

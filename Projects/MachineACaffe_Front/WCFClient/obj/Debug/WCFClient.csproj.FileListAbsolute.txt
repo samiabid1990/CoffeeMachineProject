@@ -1,0 +1,15 @@
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\WCFClient\bin\Debug\WCFClient.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\WCFClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\WCFClient\obj\Debug\WCFClient.dll
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\WCFClient\bin\Debug\WCFClient.dll.config
+C:\Users\GSX789PC\Documents\Visual Studio 2015\Projects\MachineACaffe_Front\WCFClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\WCFClient\bin\Debug\WCFClient.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\WCFClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\WCFClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\WCFClient\obj\Debug\WCFClient.dll
+C:\Users\Sami\Downloads\Projects\MachineACaffe_Front\WCFClient\obj\Debug\WCFClient.pdb
